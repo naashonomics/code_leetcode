@@ -1,23 +1,17 @@
 class Solution:
+    def dfs(self,grid,r,c):
+        grid[r][c] = '0'
+        lst = [(r-1, c), (r+1, c), (r, c-1), (r, c+1)]
+        for row, col in lst:
+            if row >= 0 and col >= 0 and row < len(grid) and col < len(grid[row]) and grid[row][col] == '1':
+                self.dfs(grid, row, col)
+    
+
     def numIslands(self, grid: List[List[str]]) -> int:
-        def sinkIsland(grid,r,c):
-            if grid[r][c]=='1':
-                grid[r][c]='0'
-            else:
-                return 
-            if r+1 < len(grid):
-                sinkIsland(grid,r+1,c)
-            if r-1 >= 0:
-                sinkIsland(grid,r-1,c)
-            if c+1 < len(grid[0]):
-                sinkIsland(grid,r,c+1)
-            if c-1 >= 0:
-                sinkIsland(grid,r,c-1)
-        counter=0
-        for i in range(len(grid)):
-            for j in range(len(grid[0])):
-                if grid[i][j]=='1':
-                    counter+=1
-                    sinkIsland(grid,i,j)
-        return counter 
-                    
+        islands = 0
+        for r in range(len(grid)):
+            for c in range(len(grid[r])):
+                if grid[r][c] == '1':
+                    self.dfs(grid, r, c)
+                    islands += 1
+        return islands
