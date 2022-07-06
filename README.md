@@ -1,6 +1,4 @@
-# code_leetcode
-leetcode
-
+# 100 days of Leet Code 
 
 Day 1: 121 Best Time to Buy and Sell Stock [ Dynamic programming ]
 https://lnkd.in/gvbv6kp2
