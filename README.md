@@ -14,7 +14,7 @@ Day 6: 338. Counting Bits [ Bit Manipulation ] : https://lnkd.in/gM5eB2dF
 
 Day 7: 35. Search Insert Position [ Binary Search ] : https://lnkd.in/gJyTzEMd
 
-Day 8: 
+Day 8:  53. Maximum Subarray 
 
 Day 9:55. Jump Game [Greedy] : https://github.com/naashonomics/code_leetcode/tree/main/55-jump-game
 
