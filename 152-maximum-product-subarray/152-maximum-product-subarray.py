@@ -1,5 +1,7 @@
 class Solution:
     def maxProduct(self, nums: List[int]) -> int:
+        #TCo(n)
+        #SCo(1)
         ans=0
         currentProduct=1
         if len(nums)==1:
