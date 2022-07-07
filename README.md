@@ -13,3 +13,9 @@ Day 5 : 70 Climbing Stairs [ Dynamic programming + Memoization ] : https://lnkd.
 Day 6: 338. Counting Bits [ Bit Manipulation ] : https://lnkd.in/gM5eB2dF
 
 Day 7: 35. Search Insert Position [ Binary Search ] : https://lnkd.in/gJyTzEMd
+
+Day 8:
+
+Day 9:
+
+Day 10: 152. Maximum Product Subarray [ Dynamic programming ]: https://github.com/naashonomics/code_leetcode/tree/main/152-maximum-product-subarray 
