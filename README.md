@@ -19,3 +19,6 @@ Day 8:  53. Maximum Subarray  [ Dynamic programming ] https://github.com/naashon
 Day 9:55. Jump Game [Greedy] : https://github.com/naashonomics/code_leetcode/tree/main/55-jump-game
 
 Day 10: 152. Maximum Product Subarray [ Dynamic programming ]: https://github.com/naashonomics/code_leetcode/tree/main/152-maximum-product-subarray 
+
+Algorithm Grading Sheet: 
+https://docs.google.com/spreadsheets/d/1gy9cmPwNhZvola7kqnfY3DElk7PYrz2ARpaCODTp8Go/edit#gid=0 
