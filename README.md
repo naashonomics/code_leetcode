@@ -22,3 +22,6 @@ Day 10: 152. Maximum Product Subarray [ Dynamic programming ]: https://github.co
 
 Algorithm Grading Sheet: 
 https://docs.google.com/spreadsheets/d/1gy9cmPwNhZvola7kqnfY3DElk7PYrz2ARpaCODTp8Go/edit#gid=0 
+
+
+single click to apply to all Y Combinator #startup #jobs : www.workatastartup.com
