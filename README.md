@@ -28,8 +28,12 @@ Day 13: 169. Majority Element [ Hashmap | Sort | Boyer-Moore Voting Algorithm] h
 
 
 # Algorithm Grading Sheet: 
+
 https://docs.google.com/spreadsheets/d/1gy9cmPwNhZvola7kqnfY3DElk7PYrz2ARpaCODTp8Go/edit#gid=0 
 
-# Blind 75:  NEATCODE https://neetcode.io/
+# Blind 75:  
 
-# single click to apply to all Y Combinator #startup #jobs : www.workatastartup.com
+NEATCODE https://neetcode.io/
+
+# single click to apply to all Y Combinatorjobs 
+www.workatastartup.com
