@@ -3,6 +3,7 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
+        #Dutch National Flag Problem 
         #TC:O(n)
         #SC:O(1)
         left,right =0 ,len(nums)-1
