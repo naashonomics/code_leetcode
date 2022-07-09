@@ -3,4 +3,18 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        return nums.sort()
+        #TC:O(n)
+        #SC:O(1)
+        left,right =0 ,len(nums)-1
+        i=0
+        while  i<= right:
+            if (nums[i]==0):
+                nums[i],nums[left]=nums[left],nums[i]
+                left=left+1
+                i=i+1
+            elif (nums[i]==2):
+                nums[i],nums[right]=nums[right],nums[i]
+                right=right-1
+            else:
+                i=i+1   
+        
