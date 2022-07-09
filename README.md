@@ -20,10 +20,13 @@ Day 9:55. Jump Game [Greedy] : https://github.com/naashonomics/code_leetcode/tre
 
 Day 10: 152. Maximum Product Subarray [ Dynamic programming ]: https://github.com/naashonomics/code_leetcode/tree/main/152-maximum-product-subarray 
 
-Day 12:  75. Sort Colors [ Two Pointers ] https://github.com/naashonomics/code_leetcode/tree/main/75-sort-colors 
+Day 11: 238. Product of Array Except Self [ Array]: https://lnkd.in/gZt43wfZ
+
+Day 12:  75. Sort Colors [ Two Pointers ]: https://github.com/naashonomics/code_leetcode/tree/main/75-sort-colors 
 
 Algorithm Grading Sheet: 
 https://docs.google.com/spreadsheets/d/1gy9cmPwNhZvola7kqnfY3DElk7PYrz2ARpaCODTp8Go/edit#gid=0 
 
+Blind 75:  NEATCODE https://neetcode.io/
 
 single click to apply to all Y Combinator #startup #jobs : www.workatastartup.com
